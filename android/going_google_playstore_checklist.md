@@ -1,7 +1,7 @@
 # Going Live in Google Play Store CheckList
 
 ### App Signing in Firebase Console
-* After uploading apk to playstore, by default the features like Firebase Phone Auth which require digital signature fingerprint SHA1 
+* After uploading apk to playstore, by default the features like Firebase Auth, Google Maps, Google Place Picker etc, the features which require digital signature fingerprint SHA1 
 will not work to make it work copy the sha1 fingerprint from Google Play Store and add it in Firebase Console
 
 ![alt text](https://i.stack.imgur.com/zaOXL.png)
