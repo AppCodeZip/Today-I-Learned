@@ -26,6 +26,7 @@ variety of languages and technologies.
 
 ## Android
 - [Implementing Firebase Cloud Messaging (FCM)](android/implementing_fcm.md)
+- [Going Live to Google Playstore CheckList] (android/going_google_playstore_checklist.md)
 
 ## git
 - [How to Uncommit a commit in git](git/uncommit_a_commit_in_git.md)
