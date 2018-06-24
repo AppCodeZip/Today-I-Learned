@@ -23,6 +23,7 @@ variety of languages and technologies.
 - [Implementing User Local Notification in iOS 10](ios/implementing_local_notifications.md)
 - [Integrating Firebase Crashlytics](ios/integrating_firebase_crashlytics.md)
 - [Adding a function in base class using Protocols & Extensions](ios/adding_function_in_every_ui_controller.md)
+- [Force Update using Firebase Remote Config](ios/forceupdate_using_remote_config.md)
 
 ## Android
 - [Implementing Firebase Cloud Messaging (FCM)](android/implementing_fcm.md)
