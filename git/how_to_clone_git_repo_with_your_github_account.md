@@ -11,3 +11,4 @@ This command will force the your own github account to be used for commits and c
 
 ### Resources:
 * https://stackoverflow.com/questions/3860112/multiple-github-accounts-on-the-same-computer
+* https://stackoverflow.com/questions/9063176/git-multiple-user-names-for-the-different-projects-within-the-same-system
