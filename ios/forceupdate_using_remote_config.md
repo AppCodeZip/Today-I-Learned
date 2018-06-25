@@ -266,5 +266,7 @@ remoteConfig.configSettings = RemoteConfigSettings(developerModeEnabled: false)!
 
 * If you are wondering whats is the appVisibleViewController, read the following article: 
 
+
+
 ### Resources
 * https://medium.com/@sembozdemir/force-your-users-to-update-your-app-with-using-firebase-33f1e0bcec5a
