@@ -127,7 +127,7 @@ class UpdateAppViewController: UIViewController {
     override func viewDidAppear(_ animated: Bool) {
         super.viewDidAppear(animated)
         
-        let appDelegate = UIApplication.shared.delegate as! OutAppDelegate
+        let appDelegate = UIApplication.shared.delegate as! MyAppDelegate
         appDelegate.appVisibleController = self as UpdateAppViewController
         
     }
@@ -259,7 +259,7 @@ Next, goto firebase console and add the following parameters
 
 
 ### Notes
-* Do not forget to set developerModeEnabled = true in remote config settings when releasing the app
+* Do not forget to set developerModeEnabled = false in remote config settings when releasing the app
 ```swift
 remoteConfig.configSettings = RemoteConfigSettings(developerModeEnabled: false)!
 ```
